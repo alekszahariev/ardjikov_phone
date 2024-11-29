@@ -1,0 +1,270 @@
+[
+  {
+    "id": 32,
+    "date": "21.03.2024  9:01",
+    "from": "Detectiv privat",
+    "subject": "Informație nouă",
+    "content": "<b>De la D.P.</b>,<br><hr></br>Vă informez că, după o lungă căutare, am găsit numele bărbatului care ieșea cu soția dumneavoastră. După o mică șpagă la hotelul City Avenue, am primit informații interne și am obținut un bon fiscal din 28.11.2023.<br>Numele bărbatului este Flavio Romano."
+    
+  },
+  {
+    "id": 31,
+    "date": "20.03.2024 3:25.",
+    "from": "Maya Varbanova",
+"subject": "Investiția noastră în Golden Globus OOD",
+"content": "Investiția noastră în Golden Globus OOD este pur și simplu tragică.<br>Managerii cheltuie bani pentru “vacanțe” în “interese de serviciu” în Spania.<br>Este timpul să intri în ei, sunt pe cale de faliment."
+
+  },
+  {
+    "id": 14,
+    "date": "18.03.2024 11:23.",
+    "from": "PiperaNet",
+"subject": "Vă mulțumim pentru plata dumneavoastră",
+"content": "Am primit o plată în valoare de: 50,00 euro. <br> Salutări,<br> Furnizorul dumneavoastră de internet,<br> PiperaNet"
+
+  },
+  {
+    "id": 30,
+    "date": "08.03.2024 15:44.",
+    "from": "Anna Ivanova",
+    "subject": "Informații despre evenimente și întâlniri viitoare",
+"content": "Bună ziua,<br>Vrem să vă informăm despre evenimentele și întâlnirile viitoare la care ne puteți vizita. Consultați calendarul nostru și alăturați-vă nouă pentru evenimente interesante și educaționale. Vă așteptăm!<br><br>Cu respect,<br>Anna Ivanova<br>Organizator de evenimente<br>'Soluții Progresive SRL'"
+
+  },
+  {
+    "id": 29,
+    "date": "05.03.2024 10:32.",
+    "from": "Georgi Petrov",
+    "subject": "Informații despre plata facturii dumneavoastră",
+    "content": "Bună ziua,<br>Vrem să vă informăm că a venit data limită pentru plata facturii dumneavoastră nr. 0052486286. Vă rugăm să nu uitați să efectuați plata la timp pentru a evita eventualele întârzieri și costuri suplimentare. Pentru mai multe informații, vă rugăm să contactați echipa noastră de servicii pentru clienți.<br><br>Cu respect,<br>Georgi Petrov<br>Manager financiar<br>'Soluții Financiare SRL'"
+    
+  },
+  {
+    "id": 28,
+    "date": "03.03.2024 11:35.",
+    "from": "Andrey Ivanov",
+    "subject": "Analiza statistică a comenzilor pentru luna februarie",
+    "content": "Bună ziua, domnule Ardzhikov,<br>Vă atașez analiza statistică a comenzilor pentru luna februarie. Avem observații bune și propuneri de îmbunătățire a procesului de vânzări. Vă rog să le analizați și să ne dați opinia dumneavoastră.<h2>Analiza statistică a comenzilor pentru februarie</h2><table><thead><tr><th>Săptămână</th><th>Comenzi primite</th><th>Vânzări (RON)</th><th>Tendință</th></tr></thead><tbody><tr><td>Săptămâna 1</td><td>120</td><td>21419 ron.</td><td>↗</td></tr><tr><td>Săptămâna 2</td><td>135</td><td>24096 ron.</td><td>↗</td></tr><tr><td>Săptămâna 3</td><td>150</td><td>26774 ron.</td><td>↗</td></tr><tr><td>Săptămâna4</td><td>165</td><td>28000 ron</td><td>↗</td></tr></tbody></table><p><br>Așa cum arată datele, avem o creștere pozitivă atât în numărul comenzilor primite, cât și în vânzările totale. Această tendință este o dovadă a muncii asidue a echipei noastre și a încrederii continue a clienților noștri în produsele și serviciile noastre.</p></body>Cu respect,<br>Andrey Ivanov<br>”Manager de vânzări" 
+  },
+  {
+    "id": 27,
+    "date": "27.02.2024 14:58.",
+    "from": "Petar Georgiev",
+    "subject": "Informații despre produse și servicii noi",
+    "content": "Bună ziua,<br> Avem plăcerea de a vă informa despre noile noastre produse și servicii, care sunt acum disponibile. Descoperiți cele mai recente inovații și îmbunătățiri din portofoliul nostru și alegeți cele mai bune pentru dumneavoastră. Nu ratați ofertele noastre speciale!<br><br>Cu respect,<br>Petar Georgiev<br>Manager de marketing<br>'Soluții Progresive SRL"
+  },
+  {
+    "id": 26,
+    "date": "21.02.2024 22:05.",
+    "from": "Mariya Ivanova",
+    "subject": "Invitație de participare la un sondaj de satisfacție a clienților",
+    "content": "Bună ziua,<br>Am dori să vă invităm să participați la sondajul nostru de satisfacție a clienților. Opinia dumneavoastră este extrem de importantă pentru noi și ne va ajuta să ne îmbunătățim serviciile. Vă rugăm să alocați câteva minute din timpul dumneavoastră liber pentru a ne împărtăși impresiile.<br><br>Cu respect,<br>Maria Ivanova<br>Manager relații cu clienții<br>'Soluții Progresive SRL'"
+
+  },
+  {
+    "id": 25,
+    "date": "20.02.2024 09:30.",
+    "from": "Ivana Petrova",
+    "subject": " Pregătire pentru întâlnirea cu partenerii de pe 27 martie ",
+    "content": "Bună ziua, domnule Ardzhikov,<br>Vrem să vă informăm că suntem în proces de pregătire pentru întâlnirea cu partenerii noștri cheie pe 27 martie. Am dori să primim aprobarea dumneavoastră cu privire la ordinea de zi și la punctele importante de discuție pentru întâlnire.<br><br>Cu stimă,<br>Ivana Petrova<br>Manager de parteneriate"
+  },
+  {
+    "id": 14,
+    "date": "18.02.24 23:57.",
+    "from": "PiperaNet",
+"subject": "Vă mulțumim pentru plata dumneavoastră",
+"content": "Am primit o plată în valoare de: 50,00 euro. <br> Salutări,<br> Furnizorul dumneavoastră de internet,<br> PiperaNet"
+
+  },
+  {
+    "id": 24,
+    "date": "14.02.2024 21:52.",
+    "from": "Georgi Georgiеv",
+    "subject": " Planificarea instruirii și dezvoltării personalului ",
+    "content": " Bună ziua, domnule Ardzhikov,<br> Aș dori să vă informez că a început planificarea instruirii și dezvoltării personalului. Vă rugăm, dacă aveți indicații sau preferințe specifice cu privire la temele pe care ați dori să le includeți în program, să le împărtășiți cu noi.<br><br>Cu stimă,<br>Georgi Georgiev<br>Manager resurse umane"
+  },
+  {
+    "id": 23,
+    "date": "13.02.2024 13:17.",
+    "from": "Mariya Petrova",
+    "subject": " Informații despre actualizarea sistemului de gestionare a clienților",
+    "content": "Bună ziua, domnule Ardzhikov,<br>Aș dori să vă informez că am finalizat actualizarea sistemului nostru de gestionare a clienților. Noile funcționalități ne vor ajuta să îmbunătățim eficiența serviciilor noastre și să creștem satisfacția clienților. Vă mulțumim pentru sprijinul și orientarea dumneavoastră în acest proces.<br><br>Cu stimă,<br>Mariya Petrova<br>Manager de relații cu clienții"
+  },
+  {
+    "id": 22,
+    "date": "12.02.2024 07:32.",
+    "from": "Ivan Ivanov",
+    "subject": " Actualizarea planului strategic 2024",
+    "content": "Bună ziua, domnule Ardzhikov,<br>Aș dori să vă informez că am finalizat reînnoirea planului strategic pentru societatea noastră de asigurări pentru perioada 2024-2026. Vă rugăm să vă acordați un moment pentru a discuta despre noile noastre obiective și priorități.<br><br>Cu stimă,<br>Ivan Ivanov<br>Manager planificare strategică"
+
+  },
+  {
+    "id": 21,
+    "date": "08.02.2024 15:47.",
+    "from": "Mariya Georgieva",
+    "subject": " Invitație de participare la inițiativa de mentorat pentru tineri antreprenori ",
+    "content": "Stimate domnule Ardzhikov,<br>Succesul dumneavoastră în domeniul asigurărilor vă face un candidat ideal pentru mentor în programul nostru. Tinerii antreprenori au nevoie de înțelepciunea și mentoratul antreprenorilor experimentați ca dumneavoastră pentru a crește și a dezvolta ideile lor de afaceri. Ne-ar face plăcere să participați la această inițiativă importantă.<br><br>Cu stimă,<br>Mariya Georgieva<br>Organizator al programului de mentorat<br>'Oportunități de afaceri pentru viitor'"
+
+  },
+  {
+    "id": 20,
+    "date": "06.02.2024 16:17.",
+    "from": "Ivan Ivanov",
+    "subject": " Invitație de participare la un program de mentorat pentru antreprenori începători ",
+    "content": " Stimate domnule Ardzhikov,<br> Programul nostru de mentorat oferă oportunitatea de a împărtăși succesele și provocările dvs. ca antreprenor cu tinerii antreprenori care caută îndrumare și mentorat. Ca lider în domeniul asigurărilor, participarea dvs. ar fi esențială pentru comunitatea noastră și pentru dezvoltarea viitorilor lideri de afaceri.<br><br>Cu stimă,<br>Ivan Ivanov<br>Coordinator de program<br>'Start-up Energy'"
+
+  },
+  {
+    "id": 19,
+    "date": "05.02.2024 22:20.",
+    "from": "Anna Petrova",
+    "subject": "Invitație de participare la o inițiativă de mentorat pentru directorii de întreprinderi",
+    "content": "Stimate domn Ardzhikov,<br>Cu mândrie vă invităm să faceți parte din inițiativa noastră de mentorat pentru lideri de afaceri. Ca unul dintre antreprenorii de frunte în domeniul asigurărilor, aveți oportunitatea unică de a inspira și încuraja noii lideri de afaceri. Așteptăm cu nerăbdare să vedem cum îndrumarea și experiența dumneavoastră vor schimba viitorul participanților noștri.<br><br>Cu stimă,<br>Anna Petrova<br>Manager de proiecte<br>'Dezoltă-te cu succes'"
+
+  },
+  {
+    "id": 18,
+    "date": "27.01.2024 04:28.",
+    "from": "Petar Georgiev",
+    "subject": " Invitație de participare la un program de dezvoltare a spiritului antreprenorial ",
+    "content": "Stimate domn Ardzhikov,<br>Compania dvs. de asigurări de succes este foarte apreciată și respectată în industrie. Prin urmare, am dori să vă invităm să vă împărtășiți cunoștințele și experiența în calitate de mentor în cadrul programului nostru de dezvoltare a antreprenoriatului. Credem că expertiza dvs. ar fi de mare folos pentru tinerele talente care se străduiesc să aibă succes în domeniul lor.<br><br>Cu stimă,<br>Petar Georgiev <br>Coordinator de program<br>'Pornește cu încredere'"
+
+  },
+  {
+    "id": 17,
+    "date": "25.01.2024 17:09.",
+    "from": "Mariya Ivanova",
+    "subject": " Invitație de participare la inițiativa de mentorat pentru tineri antreprenori ",
+    "content": "Stimate domn Ardzhikov,<br>Avem plăcerea de a vă invita să fiți mentor în cadrul programului nostru de mentorat pentru tinerii antreprenori. Experiența dumneavoastră vastă și afacerile de succes în industria serviciilor de asigurări fac din aceasta o resursă valoroasă pentru participanții noștri. Ne-ar plăcea să vă împărtășiți expertiza și să ajutați noii antreprenori să își atingă potențialul.<br><br>Cu stimă,<br>Mariya Ivanova<br> Organizator al programului de mentorat <br>Cale antreprenorială inovatoare" 
+
+  },
+  {
+    "id": 14,
+    "date": "18.01.24 18:34.",
+    "from": "PiperaNet",
+    "subject": "Vă mulțumim pentru plata dumneavoastră",
+    "content": "Am primit o plată în valoare de: 50,00 euro. <br> Salutări,<br> Furnizorul dumneavoastră de internet,<br> PiperaNet"
+    
+  },
+  {
+    "id": 16,
+    "date": "09.01.2024 23:14.",
+    "from": "Produse sportive 'Start energic'",
+    "subject": " Prețuri extrem de mici - promoția se încheie în curând!",
+    "content": "Salutare,<br> Promoția cu cele mai mici prețuri se încheie în curând! Nu pierde timpul, ia-ți articolele preferate acum înainte de a fi prea târziu!<br><br> Produse sportive 'Start energic'"
+
+  },
+  {
+    "id": 15,
+    "date": "02.01.2024 18:22.",
+    "from": "Cosmetica 'Față strălucitoare'",
+    "subject": " Ofertă excelentă de produse cu transport gratuit!",
+    "content": "Bună ziua,<br> Fiecare produs acum cu transport gratuit! Răsfoiți articolele noastre și bucurați-vă de cumpărături fără a plăti pentru transport!<br><br> Cosmetica 'Față strălucitoare'"
+
+  },
+  {
+    "id": 13,
+    "date": "29.12.2023 21:23.",
+    "from": "Haine și accesorii 'Viziune modernă'",
+    "subject": " Ofertă specială pentru Ardzhikov de la compania noastră!",
+    "content": "Bună ziua,<br> Credem că veți fi încântați de oferta noastră specială! În calitate de client fidel al nostru, beneficiați de o reducere suplimentară de 20% la fiecare comandă! Nu ratați această oportunitate!<br><br> Haine și accesorii 'Viziune modernă'"
+
+  },
+  {
+    "id": 12,
+    "date": "27.12.2023 01:23.",
+    "from": " Electronice și tehnologii",
+    "subject": " Ofertă promoțională de sărbătoare - 15% reducere suplimentară!",
+    "content": "Bună ziua,<br>ЗPentru a sărbători împreună sezonul sărbătorilor, oferim o reducere suplimentară de 15% la fiecare comandă! Nu ratați această oportunitate unică!<br><br>Electronice și tehnologii 'Tehnologii inovative Ltd'"
+
+  },
+  {
+    "id": 11,
+    "date": "25.12.2023 09:24.",
+    "from": "Modă și accesorii 'Steaua polară'",
+    "subject": " Ofertă specială pentru domnul Ardzhikov - 25% reducere!",
+    "content": "Bună ziua,<br> Exclusiv pentru clienții noștri fideli, vă oferim 25% reducere la următoarea achiziție! Profitați de această ofertă specială, domnule Ardzhikov!<br><br>Modă și accesorii 'Steaua polară'"
+
+  },
+  {
+    "id": 10,
+    "date": "24.12.2023 19:28.",
+    "from": "Mari Reduceri 'Glamour Ltd'",
+    "subject": "Mari Reduceri – economisește până la 70%!",
+    "content": "Bună ziua,<br> Sales Sales la cele mai căutate produse! Economisiți până la 70% la articolele selectate. Prindeți-le acum!!<br><br>Moda și Stil 'Glamour Ltd'"
+
+  },
+  {
+    "id": 9,
+    "date": "22.12.2023 14:23.",
+    "from": " Librăria „Lumea Culturală”",
+    "subject": " Ofertă eveniment special - Obțineți un cadou gratuit!",
+    "content": "Bună ziua,<br> Înscrieți-vă pentru evenimentul nostru special și primiți un cadou gratuit la prima achiziție! Răsfoiți acum!<br><br> Librăria „Lumea Culturală”"
+
+  },
+  {
+    "id": 8,
+    "date": "21.12.2023 11:07.",
+    "from": " Magazinul electronic „Mega Sale”",
+    "subject": " Super reducere - până la -50% la toate produsele!",
+    "content": "Bună ziua,<br> Super reducere cu -50% imediat la toate produsele! Nu ratați ocazia de a vă cumpăra articolele preferate la jumătate de preț!<br><br> Magazinul electronic „Mega Sale”"
+
+  },
+  {
+    "id": 7,
+    "date": "20.12.2023 01:53.",
+    "from": "Agenția turistică „Zile însorite”",
+    "subject": " Ofertă exclusivă pentru vacanța de vară",
+    "content": "Bună ziua,<br> Folosiți oferta noastră exclusivă de vară! Rezervați o vacanță până la sfârșitul lunii și obțineți 20% reducere. Nu ratați ocazia pentru o vară de neuitat! <br><br> Agenția turistică „Zile însorite”"
+  },
+  {
+    "id": 6,
+    "date": "17.12.2023 23:02.",
+    "from": "Mariya Ivanova",
+    "subject": " Invitație la participarea la masa rotundă: „Viitorul națiunii“",
+    "content": "Stimate domn Ardzhikov,<br>Organizăm o masă rotundă cu tema „Viitorul națiunii” și am dori să vă invităm să fiți parte din aceasta ca vorbitor invitat. Expertiza și experiența dumneavoastră în domeniul serviciilor de asigurare vor fi extrem de valoroase pentru participanții noștri. Vă rugăm să ne confirmați disponibilitatea pentru participare.<br><br>Cu stimă,<br>Mariya Ivanova<br> Organizator al evenimentului <br>'Forumuri inovatoare Ltd'"
+  },
+  {
+    "id": 14,
+    "date": "18.12.24 13:42.",
+    "from": "PiperaNet",
+    "subject": "Vă mulțumim pentru plata dumneavoastră",
+    "content": "Am primit o plată în valoare de: 50,00 euro. <br> Salutări,<br> Furnizorul dumneavoastră de internet,<br> PiperaNet"    
+  },
+  {
+    "id": 5,
+    "date": "15.12.2023 18:08.",
+    "from": "Dimitar Dimitrov",
+    "subject": " Cerere de informații privind serviciile dumneavoastră.",
+    "content": "Stimate domn Ardzhikov,<br>Am dori să aflăm mai multe despre serviciile dumneavoastră și cum ar putea acestea să răspundă nevoilor și cerințelor noastre actuale. Vă rugăm să ne trimiteți informații și broșuri, precum și posibilități pentru o discuție suplimentară.<br><br>Cu stimă,<br>Dimitar Dimitrov<br>Manager Achiziții<br>'Soluții efective Ltd'"
+  },
+  {
+    "id": 4,
+    "date": "09.12.2024 16:10.",
+    "from": "Ivaylo Ivanov",
+    "subject": " Cerere de participare la proiectul dumneavoastră ",
+    "content": "Stimate domn Ardzhikov,<br>Compania noastră „Parteneriate Strategice” SRL, este interesată să participe la proiectul dumneavoastră de dezvoltare a startup-urilor. Considerăm că resursele și expertiza noastră ar putea contribui semnificativ la succesul proiectului. Vă rugăm să ne trimiteți mai multe informații despre proiectul dumneavoastră și modalitățile de colaborare..<br><br>Cu stimă,<br>Ivaylo Ivanov<br>Manager de proiecte<br>'Parteneriate Strategice SRL'"
+
+  },
+  {
+    "id": 3,
+    "date": "07.12.2023 02:14.",
+    "from": "Detectiv privat",
+    "subject": "Cazul  'Ardzhikov'",
+    "content": "<b>De la D.P.</b>,<br><hr></br> Raportez că soția dvs. a fost văzută pe Strada Dumitru Ioniţă, nr. 6 mergând cu un bărbat necunoscut care o ținea de mână. Bărbatul a sărutat-o pe doamna Ardzhikova și și-au continuat drumul. Nu am putut vedea fața bărbatului.7.12<br>________________________________________________________</br><b>Către D.P.:</b><br>Ești sigur 100% ? <br>________________________________________________________</br><b> De la  D.P.:</b><br> O urmăresc îndeaproape pe doamna Ardzhikova. Nu o pierd din vedere. Continui să caut cine este bărbatul care este cu ea. <br>________________________________________________________</br><b> Către D.P.</</b><br> Crede-mă, nu va mai fi nevoie, dar bine. <br>________________________________________________________</br>"
+  },
+  {
+    "id": 2,
+    "date": "03.12.2023 15:27.",
+    "from": "Petya Petrova",
+    "subject": " Invitație de a participa la un focus grup ",
+    "content": "Stimate domn Ardzhikov,<br>Suntem „ Inovații Tehnologice” EAD și suntem în curs de dezvoltare a unui nou produs/serviciu. Dorim să vă invităm să participați la grupul nostru de discuții, unde opinia și feedback-ul dumneavoastră vor fi cruciale pentru noi.<br> Vă rugăm să ne comunicați interesul dumneavoastră și disponibilitatea de a participa.<br><br>Cu stimă,<br>Petya Petrova<br> Manager de proiect <br>' Inovații tehnologice EAD '"
+  },
+  {
+    "id": 1,
+    "date": "01.12.2023 13:00.",
+    "from": "Ivan Ivanov",
+    "subject": " Solicitare de cooperare",
+    "content": "Stimate domn Ardzhikov,<br>Dorim să ne exprimăm interesul față de posibilitatea de a coopera cu dumneavoastră. Compania noastră „ Soluții inovatoare” Ltd este în curs de extindere a activităților sale și credem că abilitățile și experiența dumneavoastră ne-ar fi extrem de utile. Am fi bucuroși să discutăm detaliile și posibilele modalități de cooperare.<br><br>Cu stimă,<br>Ivan Ivanov<br> Manager de dezvoltare a afacerilor <br>'„ Soluții inovatoare” Ltd'"
+  }
+]
